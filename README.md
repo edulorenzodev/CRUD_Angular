@@ -1,4 +1,4 @@
-# App04
+# CRUD Angular Cli
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
 
@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Author ✒️
 
-* **Edu Lorenzo** - *Initial work and docs*- [Edulorenzodev](https://github.com/edulorenzodev)
+* **Edu Lorenzo** - *Work and docs*- [Edulorenzodev](https://github.com/edulorenzodev)
 
 
 
